@@ -1,0 +1,16 @@
+{
+  "name": "Marist-App",
+  "main": "index.html",
+  "window": {
+    "title": "Aplicacion maristas",
+    "icon": "icon.png",
+    "toolbar": true,
+    "frame": true,
+    "width": 1024,
+    "height": 768,
+    "max_height": 800,
+    "resizable": false
+  },
+  "plugin": true,
+  "description": "Aplicación maristas para android"
+}
